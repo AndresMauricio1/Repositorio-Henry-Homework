@@ -1,2 +1,1 @@
-# Repositorio-Henry-Homework
-este es un repositorio para la homework de henrry en en modulo 2
+Este proyecto es solo una Homework Clonada del modulo 2
